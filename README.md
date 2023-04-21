@@ -8,3 +8,5 @@ begin
       Showmessage('Carregando (1/'+ IntToStr(i) +')');
    end
 end;
+
+//Isso aqui é um carregamento
